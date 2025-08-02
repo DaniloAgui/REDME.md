@@ -1,5 +1,5 @@
 # REDME.md
-Olá Estou trabalhando em algo interessante no momento. 
+Olá Estou trabalhando em algo interessante no momento. Estou aprendendo com a ajuda do docs.github.com.
 Sou Desenvolvedor Frontend Junior, com experiência na criação de sistemas web. Minha atuação abrange desde o Frontend, com Spring Boot e bancos de dados relacionais, até a construção de interfaces dinâmicas e responsivas.
 
 Durante minha formação, estou desenvolvendo o Sistema Gerencial , um projeto voltado para a gestão de produtos, insumos, pedidos e orçamentos. O sistema centraliza e automatiza processos essenciais, garantindo eficiência operacional e melhor controle sobre os recursos da empresa.
